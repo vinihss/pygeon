@@ -1,0 +1,17 @@
+pygeon/
+    __init__.py
+    setup.py
+    README.md
+    LICENSE
+    pygeon/
+        __init__.py
+        messenger.py
+        telegram_messenger.py
+        email_messenger.py
+        utils.py
+    tests/
+        __init__.py
+        test_messenger.py
+        test_telegram_messenger.py
+        test_email_messenger.py
+
